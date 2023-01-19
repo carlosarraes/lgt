@@ -3,3 +3,9 @@
 Praticando Go com testes.
 
 ## Fundamentals
+- [x] Hello, World
+- [x] Integers
+- [ ] Iteration
+- [ ] Arrays and Slices
+- [ ] Structs, methods & interfaces
+- [ ] ...
