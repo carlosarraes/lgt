@@ -6,8 +6,9 @@ Praticando Go com testes.
 - [x] Hello, World
 - [x] Integers
 - [x] Iteration
-- [ ] Arrays and Slices
+- [x] Arrays and Slices
 - [ ] Structs, methods & interfaces
 - [ ] Pointers & errors
 - [ ] Maps
+- [ ] Dependency Injection
 - [ ] ...
