@@ -5,7 +5,9 @@ Praticando Go com testes.
 ## Fundamentals
 - [x] Hello, World
 - [x] Integers
-- [ ] Iteration
+- [x] Iteration
 - [ ] Arrays and Slices
 - [ ] Structs, methods & interfaces
+- [ ] Pointers & errors
+- [ ] Maps
 - [ ] ...
