@@ -3,11 +3,12 @@
 Praticando Go com testes.
 
 ## Fundamentals
+
 - [x] Hello, World
 - [x] Integers
 - [x] Iteration
 - [x] Arrays and Slices
-- [ ] Structs, methods & interfaces
+- [x] Structs, methods & interfaces
 - [ ] Pointers & errors
 - [ ] Maps
 - [ ] Dependency Injection
